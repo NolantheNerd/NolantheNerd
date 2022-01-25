@@ -6,7 +6,8 @@ When I'm not using my mathematical skill to build an all-seeing advertising AI, 
 
 ### ➕ What I'm Working On ➕
 
- - :pencil2: STEM Explained! :telescope: (Physics/Mathematics/CPSC/groff/Sage)
+ - :pencil2: STEM Explained! :telescope:
+ - :desktop_computer: Computer Science Coding Competitions :stopwatch:
  - :bicyclist: Cycling Tracker (Rider) :bar_chart:
 
 <!--#### Academic Adventure!
