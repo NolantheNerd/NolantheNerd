@@ -8,7 +8,6 @@ When I'm not using my mathematical skill to build an all-seeing advertising AI, 
 
  - :pencil2: [STEM Explained!](https://github.com/NolantheNerd/STEM) :telescope:
  - :desktop_computer: [Computer Science Coding Competitions](https://github.com/NolantheNerd/CPSCComps) :stopwatch:
- - :bicyclist: [Cycling Tracker (Rider)](https://github.com/NolantheNerd/Rider) :bar_chart:
 
 <!--#### Academic Adventure!
 
