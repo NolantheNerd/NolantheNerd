@@ -7,7 +7,7 @@ When I'm not using my mathematical skill to build an all-seeing advertising AI, 
 ### ➕ What I'm Working On ➕
 
  - :pencil2: [STEM Explained!](https://github.com/NolantheNerd/STEM) :telescope:
- - :desktop_computer: [Computer Science Coding Competitions](https://github.com/NolantheNerd/CPSCComps) :stopwatch:
+ - 🌎 [Disease Simulation Model](https://github.com/NolantheNerd/Disease_Model) 😷
 
 <!--#### Academic Adventure!
 
