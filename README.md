@@ -27,4 +27,4 @@ When I run across an issue in an open source project, I love to contribute fixes
 
 # About
 
-Still curious about me? Check out my [website](https://www.nolanmcmahon.net)/[capsule](gemini://nolanmcmahon.net) (It's best viewed using the Gemini protocol)!
+Still curious about me? Check out my [website](https://www.nolanmcmahon.net)!
