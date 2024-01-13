@@ -15,6 +15,7 @@ Right now, I'm actively working on:
 
 - dm [Fortran]: A simulation of how diseases spread through a population.
 - flint [C]: A free linter for the Fortran programming language.
+- nolnet [Go]: A static site generator that I use for myself.
 
 I'll make the source code available for those projects when they are more polished, so stay tuned!
 
