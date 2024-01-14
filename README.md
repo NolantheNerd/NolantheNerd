@@ -14,8 +14,8 @@ Those are more or less complete. I'm sure that they still have bugs, but I'm con
 Right now, I'm actively working on:
 
 - dm [Fortran]: A simulation of how diseases spread through a population.
+- nolnet [Go]: A multi-protocol static site generator that I (want to eventually) use to manage my [website](https://www.nolanmcmahon.net).
 - flint [C]: A free linter for the Fortran programming language.
-- nolnet [Go]: A static site generator that I use for myself.
 
 I'll make the source code available for those projects when they are more polished, so stay tuned!
 
