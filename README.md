@@ -1,6 +1,6 @@
 # Nolan McMahon
 
-Hi! I'm a physicist, mathematician, and computer scientist from Calgary, Alberta, Canada! My interests center around simulation, mathematical optimization, and low level systems - mostly.
+Hi! I'm a physicist, mathematician, and computer scientist from Calgary, Alberta, Canada! My interests center around simulation, mathematical optimization, and backend systems - mostly.
 
 # Projects
 
