@@ -9,7 +9,7 @@ I've made a couple of free software projects myself!
 - [Note](https://github.com/NolantheNerd/note) [BASH]: Manage your notes without ever leaving the command line!
 - [Scripture_Phaser](https://github.com/NolantheNerd/scripture_phaser) [Python]: Helps you to memorize Bible passages!
 
-Those are more or less complete. I'm sure that they still have bugs, but I'm confident enough to open them up to the public. 
+These are complete enough to be useful. I'm sure that they still have bugs, but I'm confident enough to open them up to the public. 
 
 Right now, I'm actively working on:
 
