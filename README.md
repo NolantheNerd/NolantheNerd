@@ -13,15 +13,13 @@ These are complete enough to be useful. I'm sure that they still have bugs, but 
 
 Right now, I'm actively working on:
 
-- dm [Fortran]: A simulation of how diseases spread through a population.
-- nolnet [Go]: A multi-protocol static site generator that I (want to eventually) use to manage my [website](https://www.nolanmcmahon.net).
-- flint [C]: A free linter for the Fortran programming language.
-
-I'll make the source code available for those projects when they are more polished, so stay tuned!
+- [dm](https://github.com/NolantheNerd/dm) [Fortran]: A simulation of how diseases spread through a population.
+- [nolnet](https://github.com/NolantheNerd/nolnet) [Go]: A multi-protocol static site generator that I (want to eventually) use to manage my [website](https://www.nolanmcmahon.net).
+- [flint](https://github.com/NolantheNerd/flint) [C]: A free linter for the Fortran programming language.
 
 # Open Source Contributions
 
-When I run across an issue in an open source project, I love to contribute fixes! Here is a list of the open source contributions that I've made so far:
+When I run across issues in open source projects, I love to contribute fixes! Here is a list of the open source contributions that I've made so far:
 
 - [OpenFSAM](https://github.com/nfherrin/OpenFSAM) [Fortran]: I added support for functions with discrete parameters to the simulated annealer.
 - [Scikit-Learn](https://github.com/scikit-learn/scikit-learn) [Python]: I fixed a type checking error with the degree parameter of the polynomial kernel.
