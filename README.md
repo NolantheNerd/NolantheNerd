@@ -14,8 +14,6 @@ These are complete enough to be useful. I'm sure that they still have bugs, but 
 Right now, I'm actively working on:
 
 - [dm](https://github.com/NolantheNerd/dm) [Fortran]: A simulation of how diseases spread through a population.
-- [nolnet](https://github.com/NolantheNerd/nolnet) [Go]: A multi-protocol static site generator that I (want to eventually) use to manage my [website](https://www.nolanmcmahon.net).
-- [flint](https://github.com/NolantheNerd/flint) [C]: A free linter for the Fortran programming language.
 
 # Open Source Contributions
 
