@@ -19,8 +19,8 @@ Right now, I'm actively working on:
 
 When I run across issues in open source projects, I love to contribute fixes! Here is a list of the open source contributions that I've made so far:
 
-- [OpenFSAM](https://github.com/nfherrin/OpenFSAM) [Fortran]: I added support for functions with discrete parameters to the simulated annealer.
-- [Scikit-Learn](https://github.com/scikit-learn/scikit-learn) [Python]: I fixed a type checking error with the degree parameter of the polynomial kernel.
+- [OpenFSAM](https://github.com/nfherrin/OpenFSAM/pull/8) [Fortran]: I added support for functions with discrete parameters to the simulated annealer.
+- [Scikit-Learn](https://github.com/scikit-learn/scikit-learn/pull/27668) [Python]: I fixed a type checking error with the degree parameter of the polynomial kernel.
 
 # About
 
