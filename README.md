@@ -11,9 +11,7 @@ I've made a couple of free software projects myself!
 
 These are complete enough to be useful. I'm sure that they still have bugs, but I'm confident enough to open them up to the public. 
 
-Right now, I'm actively working on:
-
-- [dm](https://github.com/NolantheNerd/dm) [Fortran]: A simulation of how diseases spread through a population.
+I have many other projects on the go, but I'll wait until they are more polished to "release" them.
 
 # Open Source Contributions
 
