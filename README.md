@@ -22,4 +22,4 @@ When I run across issues in open source projects, I love to contribute fixes! He
 
 # About
 
-Still curious about me? Check out my [website](https://www.nolanmcmahon.net)!
+Still curious about me? Check out my [website](https://nolanmcmahon.net)!
