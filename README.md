@@ -2,16 +2,9 @@
 
 Hi! I'm a physicist, mathematician, and computer scientist from Calgary, Alberta, Canada! My interests center around simulation, mathematical optimization, and backend systems - mostly.
 
-# Projects
+# Scripture Phaser
 
-I've made a couple of free software projects myself!
-
-- [Note](https://github.com/NolantheNerd/note) [BASH]: Manage your notes without ever leaving the command line!
-- [Scripture_Phaser](https://github.com/NolantheNerd/scripture_phaser) [Python]: Helps you to memorize Bible passages!
-
-These are complete enough to be useful. I'm sure that they still have bugs, but I'm confident enough to open them up to the public. 
-
-I have many other projects on the go, but I'll wait until they are more polished to "release" them.
+A tool to help with Bible memorization - you can get it [here](https://pypi.org/project/scripture-phaser/).
 
 # Open Source Contributions
 
