@@ -4,7 +4,7 @@ Hi! I'm a physicist, mathematician, and computer scientist from Calgary, Alberta
 
 # Scripture Phaser
 
-A tool to help with Bible memorization - you can get it [here](https://pypi.org/project/scripture-phaser/).
+My primary side project is called Scripture Phaser. It's a tool to aid with Bible memorization. You can get it [here](https://pypi.org/project/scripture-phaser/).
 
 # Open Source Contributions
 
